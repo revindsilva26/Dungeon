@@ -1,0 +1,320 @@
+======
+RUN 1:
+======
+You, LaraCroft, have entered Dungeon.
+You are starting at (5, 3) 
+Beware of what creatures may lurk in your way...
+
+You have:
+Weapons:
+Crooked Arrow x3
+Treasures:
+
+You are in a Cave.
+Exits can be seen to the 
+North East South 
+Is there a pungent smell in the air? Slight Pungent
+Now !!!
+Time to decide! Move - M, Pickup items - P, Shoot weapon - S
+S
+Which direction?
+N
+Enter distance to shoot (>= 1)
+1
+ROAR! Loud wail heard! You hit something!
+
+You have:
+Weapons:
+Crooked Arrow x2
+Treasures:
+
+You are in a Cave.
+Exits can be seen to the 
+North East South 
+Is there a pungent smell in the air? Slight Pungent
+Now !!!
+Time to decide! Move - M, Pickup items - P, Shoot weapon - S
+S
+Which direction?
+N
+Enter distance to shoot (>= 1)
+1
+ROAR! Loud wail heard! You hit something!
+
+You have:
+Weapons:
+Crooked Arrow x1
+Treasures:
+
+You are in a Cave.
+Exits can be seen to the 
+North East South 
+Is there a pungent smell in the air? No Smell
+Now !!!
+Time to decide! Move - M, Pickup items - P, Shoot weapon - S
+S
+Which direction?
+N
+Enter distance to shoot (>= 1)
+1
+... No sound, weapon gone with the wind
+
+You have:
+Weapons:
+Treasures:
+
+You are in a Cave.
+Exits can be seen to the 
+North East South 
+Is there a pungent smell in the air? No Smell
+Now !!!
+Time to decide! Move - M, Pickup items - P, Shoot weapon - S
+P
+Collecting these weapons:
+
+Collecting these treasures:
+Diamond 
+
+You have:
+Weapons:
+Treasures:
+Diamond 
+You are in a Cave.
+Exits can be seen to the 
+North East South 
+Is there a pungent smell in the air? No Smell
+Now !!!
+Time to decide! Move - M, Pickup items - P, Shoot weapon - S
+M
+Which direction?
+N
+Moved North!
+
+You have:
+Weapons:
+Treasures:
+Diamond 
+You are in a Tunnel.
+Exits can be seen to the 
+North South 
+Is there a pungent smell in the air? Slight Pungent
+Now !!!
+Time to decide! Move - M, Pickup items - P, Shoot weapon - S
+M
+Which direction?
+N
+Moved North!
+
+You have:
+Weapons:
+Treasures:
+Diamond 
+You are in a Cave.
+Exits can be seen to the 
+North West South 
+Is there a pungent smell in the air? Strong Pungent
+Now !!!
+Time to decide! Move - M, Pickup items - P, Shoot weapon - S
+P
+Collecting these weapons:
+Crooked Arrow Crooked Arrow Crooked Arrow 
+Collecting these treasures:
+Sapphire Ruby Ruby 
+
+You have:
+Weapons:
+Crooked Arrow x3
+Treasures:
+Diamond Sapphire Ruby Ruby 
+You are in a Cave.
+Exits can be seen to the 
+North West South 
+Is there a pungent smell in the air? Strong Pungent
+Now !!!
+Time to decide! Move - M, Pickup items - P, Shoot weapon - S
+M
+Which direction?
+N
+Moved North!
+
+You have:
+Weapons:
+Crooked Arrow x3
+Treasures:
+Diamond Sapphire Ruby Ruby 
+You are in a Tunnel.
+Exits can be seen to the 
+North South 
+Is there a pungent smell in the air? Slight Pungent
+Now !!!
+Time to decide! Move - M, Pickup items - P, Shoot weapon - S
+P
+Collecting these weapons:
+Crooked Arrow Crooked Arrow Crooked Arrow 
+Collecting these treasures:
+
+
+You have:
+Weapons:
+Crooked Arrow x6
+Treasures:
+Diamond Sapphire Ruby Ruby 
+You are in a Tunnel.
+Exits can be seen to the 
+North South 
+Is there a pungent smell in the air? Slight Pungent
+Now !!!
+Time to decide! Move - M, Pickup items - P, Shoot weapon - S
+M
+Which direction?
+N
+Moved North!
+
+You have:
+Weapons:
+Crooked Arrow x6
+Treasures:
+Diamond Sapphire Ruby Ruby 
+You are in a Cave.
+Exits can be seen to the 
+North West South 
+Is there a pungent smell in the air? Strong Pungent
+Now !!!
+Time to decide! Move - M, Pickup items - P, Shoot weapon - S
+M
+Which direction?
+N
+Moved North!
+
+You have:
+Weapons:
+Crooked Arrow x6
+Treasures:
+Diamond Sapphire Ruby Ruby 
+You are in a Cave.
+Exits can be seen to the 
+West East South 
+Is there a pungent smell in the air? Strong Pungent
+Now !!!
+Time to decide! Move - M, Pickup items - P, Shoot weapon - S
+S
+Which direction?
+E
+Enter distance to shoot (>= 1)
+1
+ROAR! Loud wail heard! You hit something!
+
+You have:
+Weapons:
+Crooked Arrow x5
+Treasures:
+Diamond Sapphire Ruby Ruby 
+You are in a Cave.
+Exits can be seen to the 
+West East South 
+Is there a pungent smell in the air? Strong Pungent
+Now !!!
+Time to decide! Move - M, Pickup items - P, Shoot weapon - S
+S
+Which direction?
+E
+Enter distance to shoot (>= 1)
+1
+ROAR! Loud wail heard! You hit something!
+
+You have:
+Weapons:
+Crooked Arrow x4
+Treasures:
+Diamond Sapphire Ruby Ruby 
+You are in a Cave.
+Exits can be seen to the 
+West East South 
+Is there a pungent smell in the air? Slight Pungent
+Now !!!
+Time to decide! Move - M, Pickup items - P, Shoot weapon - S
+P
+Collecting these weapons:
+
+Collecting these treasures:
+Sapphire Diamond Ruby 
+
+You have:
+Weapons:
+Crooked Arrow x4
+Treasures:
+Diamond Sapphire Ruby Ruby Sapphire Diamond Ruby 
+You are in a Cave.
+Exits can be seen to the 
+West East South 
+Is there a pungent smell in the air? Slight Pungent
+Now !!!
+Time to decide! Move - M, Pickup items - P, Shoot weapon - S
+M
+Which direction?
+E
+Moved EAST!
+Your Location: (0, 4) ; YES! Exit found at (0, 4)
+YOU WIN!!! Reached exit (0, 4)
+
+Process finished with exit code 0
+
+=====
+RUN 2:
+=====
+You, LaraCroft, have entered Dungeon.
+You are starting at (5, 3) 
+Beware of what creatures may lurk in your way...
+
+You have:
+Weapons:
+Crooked Arrow x3
+Treasures:
+
+You are in a Cave.
+Exits can be seen to the 
+North East South 
+Is there a pungent smell in the air? Slight Pungent
+Now !!!
+Time to decide! Move - M, Pickup items - P, Shoot weapon - S
+S
+Which direction?
+N
+Enter distance to shoot (>= 1)
+1
+ROAR! Loud wail heard! You hit something!
+
+You have:
+Weapons:
+Crooked Arrow x2
+Treasures:
+
+You are in a Cave.
+Exits can be seen to the 
+North East South 
+Is there a pungent smell in the air? Slight Pungent
+Now !!!
+Time to decide! Move - M, Pickup items - P, Shoot weapon - S
+M
+Which direction?
+N
+Moved North!
+
+You have:
+Weapons:
+Crooked Arrow x2
+Treasures:
+
+You are in a Tunnel.
+Exits can be seen to the 
+North South 
+Is there a pungent smell in the air? Strong Pungent
+Now !!!
+Time to decide! Move - M, Pickup items - P, Shoot weapon - S
+M
+Which direction?
+N
+Moved North!
+DEAD! You encountered a monster and didn't survive
+
+Process finished with exit code 0
