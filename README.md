@@ -1,4 +1,4 @@
-# dungeon
+# Dungeon
 A dungeon game where a player must traverse through the maze, designed using Kruskal's algorithm, to reach the exit in order to win. The obstacles in your way? Monsters and Thieves of course!
 
 ## About
@@ -19,16 +19,13 @@ A dungeon game where a player must traverse through the maze, designed using Kru
 - 'Change Settings' option in the Menu will allow user to set new game settings, such as number of rows & columns in the dungeon, dunegon node interconnectivity etc.
 
 ## How to play?
-- Run this command on your Terminal: ```git clone https://github.com/SiddAjriY2Jaccount/dungeon```
+- Run this command on your Terminal: ```git clone https://github.com/revindsilva26/dungeon```
 - From the root directory, run the command: ```java -jar dungeon.jar```
 
 ## Concepts used
 - Kruskal's algorithm: For maze construction.
 - BFS (Breadth First Search): To check and ensure that the randomly chosen start and end nodes for a game are atleast 5-hop distance away from each other.
 - MVC (Model-View-Controller): Design pattern followed to structure code modules.
-
-## Contributors
-[Siddhanth Jayaraj Ajri](https://github.com/SiddAjriY2Jaccount)
 
 ## Screenshots
 ![Screenshot-1](./res/github-screenshots/img-1.png)
