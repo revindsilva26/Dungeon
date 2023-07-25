@@ -19,7 +19,7 @@ A dungeon game where a player must traverse through the maze, designed using Kru
 - 'Change Settings' option in the Menu will allow user to set new game settings, such as number of rows & columns in the dungeon, dunegon node interconnectivity etc.
 
 ## How to play?
-- Run this command on your Terminal: ```git clone https://github.com/revindsilva26/dungeon```
+- Run this command on your Terminal: ```git clone https://github.com/revindsilva26/Dungeon.git```
 - From the root directory, run the command: ```java -jar dungeon.jar```
 
 ## Concepts used
